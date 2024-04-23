@@ -1,2 +1,2 @@
 # Skin-Cancer-Project
-skin cancer detection by using ml
+skin cancer detection by using deep learning 
